@@ -8,6 +8,8 @@
 * Proficient in developing MEAN and MERN stack web applications as well as .Net MVC applications.     
 * Strong fundamental knowledge of Software Engineering principles, Design patterns and Best practices          
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=osamaishtiaq&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+### Github recent stats
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=osamaishtiaq&show_icons=true&theme=dark">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaishtiaq&theme=radical&title_color=8E2DE2&text_color=fff)
+### Github most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaishtiaq&theme=dark)
