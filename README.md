@@ -1,4 +1,4 @@
-## **Osama Ishtiaq**
+## Osama Ishtiaq
  **usamaoic@gmail.com +923002770524**    
  **Languages : English (Fluent)**    
 
@@ -7,3 +7,7 @@
 * Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
 * Proficient in developing MEAN and MERN stack web applications as well as .Net MVC applications.     
 * Strong fundamental knowledge of Software Engineering principles, Design patterns and Best practices          
+
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=osamaishtiaq&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaishtiaq&theme=radical&title_color=8E2DE2&text_color=fff)
