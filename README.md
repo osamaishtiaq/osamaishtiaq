@@ -1,5 +1,5 @@
 ## Osama Ishtiaq
- **usamaoic@gmail.com +923002770524**    
+ **[usamaoic@gmail.com](mailto:usamaoic@gmail.com) [+923002770524](https://wa.me/923002770524)**    
  **Languages : English (Fluent)**    
  **Location : Rotterdam, The Netherlands**    
 
