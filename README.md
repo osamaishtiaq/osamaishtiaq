@@ -1,12 +1,12 @@
 ## Osama Ishtiaq
  **usamaoic@gmail.com +923002770524**    
  **Languages : English (Fluent)**    
+ **Location : Rotterdam, The Netherlands**    
 
 ### Professional Summary      
-* Proficient in developing Modern service oriented systems with highly cohesive and loosely coupled microservices leveraging cloud infrastructure and containers using mainly Node.js and .Net Core but also Python Language ecosystems.    
-* Proficient in developing Robust and Stable Enterprise systems using .Net and Microsoft Technologies with both Microsoft Azure and On-premise Infrastructure.     
-* Proficient in developing MEAN and MERN stack web applications as well as .Net MVC applications.     
-* Strong fundamental knowledge of Software Engineering principles, Design patterns and Best practices          
+* Proficient in developing modern service oriented systems leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS) and C# .Net Core.    
+* Proficient in developing Angular (MEAN) and React.js (MERN) Stack SPA Applications with Backends Express.js and NestJS Backend.     
+* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices.   
 
 ### Github recent stats
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=osamaishtiaq&show_icons=true&theme=dark">
