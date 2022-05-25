@@ -1,13 +1,9 @@
 ## Osama Ishtiaq
- **[usamaoic@gmail.com](mailto:usamaoic@gmail.com) [+923002770524](https://wa.me/923002770524)**    
+ **[usamaoic@gmail.com](mailto:usamaoic@gmail.com) [+31651451919](https://wa.me/31651451919)**    
  **Languages : English (Fluent)**    
  **Location : Rotterdam, The Netherlands**    
-
-### Professional Summary      
-* Proficient in developing modern service oriented systems leveraging cloud infrastructure and containers using Node.js (Express.js, NestJS) and C# .Net Core.    
-* Proficient in developing Angular (MEAN) and React.js (MERN) Stack SPA Applications with Backends Express.js and NestJS Backend.     
-* Strong knowledge of fundamental Software Engineering principles, Design patterns and Best practices.   
-
+ **[LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)
+ 
 ### Github recent stats
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=osamaishtiaq&show_icons=true&theme=dark">
 
