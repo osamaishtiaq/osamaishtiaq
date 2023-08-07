@@ -4,5 +4,3 @@
  **Location : Rotterdam, The Netherlands**    
  **[LinkedIn](https://www.linkedin.com/in/osama-ishtiaq-58990a178/)**      
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaishtiaq&theme=dark)
